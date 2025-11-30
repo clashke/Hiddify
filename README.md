@@ -1,6 +1,9 @@
 # Hiddify 下载官网客户端分享
 
+<div align="center">
+  <img width="150" height="150" alt="Hiddify" src="https://github.com/user-attachments/assets/7ac43316-0611-4f2d-be39-65fe68ecce08" />
 
+</div>
 
 ## :memo: Hiddify 节点资源
 
